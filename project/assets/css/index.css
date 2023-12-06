@@ -1,0 +1,38 @@
+.centered{
+    background-color: #87C4FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    
+}
+.main-container{
+    background-color: #FFFFFF;
+    border: 1px solid #F3EEEA;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15px;
+    width: 850px;
+    height: 490px;
+}
+.sidebar{
+    width: 240px;
+    height: 490px;
+    border-right: .5px solid rgba(0, 0, 0, 0.19);
+    box-shadow: 1px 0 0 0 rgba(0, 0, 0, 0.19);
+}
+.circle{
+    width: 50%;
+    height: 25%;
+    background-color: #F3EEEA;
+    border-radius: 50%;
+    position: absolute;
+    left: 25%;
+    top: 3%;
+}
+
+
+.content{
+   
+}
